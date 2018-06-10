@@ -1,0 +1,40 @@
+body {
+  background-color: black;
+  text-align: center;
+  font-family: verdana;
+}
+#copyright {
+  text-align: right;
+}
+h1,
+h2 {
+  color: white;
+}
+h5 {
+  color: Aquamarine;
+  font-size: 16px;
+}
+a:link {
+  color: Aquamarine;
+}
+a:active {
+  color: Aquamarine;
+}
+a:visited {
+  color: Aquamarine;
+}
+h1 {
+  font-weight: normal;
+  font-size: 50px;
+}
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+h3 {
+  font-size: 21px;
+  color: grey;
+}
+h4 {
+  color: grey;
+}
